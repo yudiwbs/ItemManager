@@ -1,8 +1,8 @@
 # ItemManager
 Untuk UAS
 
-Pengeloaan item pada game.
-==========================
+Pengelolaan item pada game RPG.
+===============================
 
 ItemManagement ini diharapkan jadi library generik yang dapat digunakan
 oleh berbagai game RPG.
